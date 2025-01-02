@@ -19,7 +19,7 @@ The Verusa Tool is a small project created by the Verusa team for Educational pu
 
 4. Where do I find the real website incase theres fake ones?
 
-   The real and only website of Verusa will FOREVER be **host1999.github.io/Verusa/** [Click here for the Website](https://host1999.github.io/Verusa/)
+   The real and only website of Verusa will FOREVER be **https://verusa-real.github.io/Verusa-Tool/** [Click here for the Website](https://verusa-real.github.io/Verusa-Tool/)
 
 ### Profits
 
