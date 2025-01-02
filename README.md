@@ -1,5 +1,7 @@
 ***IF YOU EXPERIENCE ANY ERRORS OR BUGS PLEASE CONTACT US, TO FIND OUT HOW TO CONTACT US READ THE CONTACTING SECTION.***
 
+***DUE TO THE MANIPULATING NATURE OF VERUSA, YOU HAVE TO TURN OFF YOUR ANTI VIRUS BECAUSE IT MIGHT DETECT IT AS A VIRUS.***
+
 # Verusa
 The Verusa Tool is a small project created by the Verusa team for Educational purposes only. We do not condone any harm caused by the use of our software!
 
