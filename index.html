@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Software Download Page</title>
+    <style>
+        body {
+            background-color: #1a1a1a;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            padding: 20px 0;
+            border-bottom: 1px solid #333;
+            margin-bottom: 40px;
+        }
+
+        .content-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            margin-bottom: 40px;
+        }
+
+        .info-section {
+            text-align: center;
+            padding-bottom: 20px;
+        }
+
+        .preview-section {
+            background-color: #252525;
+            padding: 20px;
+            border-radius: 8px;
+            position: relative;
+            border-top: 1px solid #333;
+        }
+
+        .preview-label {
+            position: absolute;
+            top: -12px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: #1a1a1a;
+            padding: 0 20px;
+            color: #888;
+            font-size: 0.9em;
+        }
+
+        .preview-image {
+            width: 100%;
+            height: auto;
+            border-radius: 4px;
+        }
+
+        .download-button {
+            display: block;
+            width: 300px;
+            margin: 40px auto;
+            padding: 15px 30px;
+            background-color: #333;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 25px;
+            transition: background-color 0.3s;
+        }
+
+        .download-button:hover {
+            background-color: #444;
+        }
+
+        .notice {
+            text-align: center;
+            color: #888;
+            font-size: 0.9em;
+            margin-top: 20px;
+        }
+
+        .copyright {
+            text-align: right;
+            color: #666;
+            font-size: 0.8em;
+            margin-top: 40px;
+        }
+
+        .info-section h2 {
+            position: relative;
+            padding-bottom: 20px;
+            margin-bottom: 20px;
+        }
+
+        .info-section h2:after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 200px;
+            height: 1px;
+            background-color: #333;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <header class="header">
+        <h1>Software Download Page</h1>
+    </header>
+
+    <div class="content-grid">
+        <div class="info-section">
+            <h2>Software Usage</h2>
+            <p>Our software is easy to use with built-in instructions.</p>
+            <p>For technical support, please visit our support page.</p>
+            <p>This software is for educational purposes only.</p>
+        </div>
+
+        <div class="preview-section">
+            <div class="preview-label">BETA PREVIEW</div>
+            <img src="/other/image.png" alt="Software Preview" class="preview-image">
+        </div>
+    </div>
+
+    <a href="#" class="download-button">Download Now</a>
+
+    <p class="notice">
+        By downloading, you agree to our terms of service and acceptable use policy.
+    </p>
+
+    <div class="copyright">
+        © 2025 Your Company Name
+    </div>
+</div>
+</body>
+</html>
