@@ -1,11 +1,3 @@
-█   █ █████ ████  █   █ █████  ███        ████  █████ █████  ███  
-█   █ █     █   █ █   █ █     █   █       █   █ █       █   █   █ 
- █ █  ████  ████  █   █ █████ █████       ████  ████    █   █████ 
- █ █  █     █   █ █   █     █ █   █       █   █ █       █   █   █ 
-  █   █████ █   █ █████ █████ █   █       ████  █████   █   █   █ 
-
-
-
 ***IF YOU EXPERIENCE ANY ERRORS OR BUGS PLEASE CONTACT US, TO FIND OUT HOW TO CONTACT US READ THE CONTACTING SECTION.***
 
 ***DUE TO THE MANIPULATING NATURE OF VERUSA, YOU HAVE TO TURN OFF YOUR ANTI VIRUS BECAUSE IT MIGHT DETECT IT AS A VIRUS.***
